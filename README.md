@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./DeepRat1.png" alt="Deeprat Banner" width="100%">
+</p>
+
 # 🧠 Deeprat — Gonzalo [Data Scientist & AI Engineer]
 
 > *“Make the complex accessible. Make the invisible useful. And have a bit of fun along the way.”*
