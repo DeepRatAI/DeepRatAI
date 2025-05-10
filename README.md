@@ -65,11 +65,14 @@ The work never truly ends. That’s the point.
 
 If you've made it this far, you're probably a fellow curious mind. Welcome to the lab.
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/yourusername/)  
+- 📫 [LinkedIn](https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355/)  
 - 🧪 [Medium](https://medium.com/@yourusername)  
 - 💬 [Twitter / X](https://twitter.com/yourusername)  
 - 📂 Check out my featured projects in this repo and more to come.
 
 ---
+<p align="center">
+  <img src="./deepratbanner1.png" alt="Deeprat Banner" width="100%">
+</p>
 
 > **Deeprat™** — because even rats can have good ideas.
