@@ -7,6 +7,19 @@
 > *“Make the complex accessible. Make the invisible useful. And have a bit of fun along the way.”*
 
 ---
+### 💡 About This Repository
+
+This repository is not static — it's more like a **technical lab journal** that updates when inspiration, obsession, or GPU availability strike.
+
+I plan to share new experiments, tools, ideas, and studies **on a regular basis**, as time and brain cells permit.  
+Everything here is intended to be **explored, adapted, learned from, and built upon**.
+
+Most of it is made using open or freely available resources, with learning and experimentation in mind.  
+It’s part notebook, part lab, part sandbox — powered by curiosity, caffeinated neurons, and the occasional existential crisis.
+
+If it helps you build, understand, or break something better: mission accomplished.
+
+---
 
 ## 👋 About Me
 
@@ -59,14 +72,6 @@ To me, code isn't just execution — it's exploration, iteration, and the art of
 
 The work never truly ends. That’s the point.
 
----
-
-## 💡 A Note on This Repository
-
-Everything you’ll find here is meant to be **explored, learned from, shared, and adapted**.  
-The tools, code, and experiments are built using open or freely available resources — with education and experimentation in mind.
-
-If something here helps you build, break, or understand something better, then it’s doing its job.
 
 ---
 
