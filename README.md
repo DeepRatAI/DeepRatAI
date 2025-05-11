@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./DeepRat1.png" alt="Deeprat Banner" width="100%">
+  <img src="DeepRat1.png" alt="Deeprat Banner" width="100%">
 </p>
+
 
 # 🧠 Deeprat — Gonzalo [Data Scientist & AI Engineer]
 
