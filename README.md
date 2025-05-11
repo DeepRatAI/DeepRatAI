@@ -61,6 +61,15 @@ The work never truly ends. That’s the point.
 
 ---
 
+## 💡 A Note on This Repository
+
+Everything you’ll find here is meant to be **explored, learned from, shared, and adapted**.  
+The tools, code, and experiments are built using open or freely available resources — with education and experimentation in mind.
+
+If something here helps you build, break, or understand something better, then it’s doing its job.
+
+---
+
 ## 🚀 Let's Connect
 
 If you've made it this far, you're probably a fellow curious mind. Welcome to the lab.
