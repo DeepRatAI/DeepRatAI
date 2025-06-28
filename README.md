@@ -1,3 +1,8 @@
+<p align="right">
+  🇪🇸 [Leer en Español](./README_es.md)
+</p>
+
+
 # 🧠 DeepRat — Gonzalo Romero  
 **AI, Software and Systems Engineer** · Creator of TrueEye · Technical Thinker and Obsessive Builder
 > “Make the complex accessible. Make the invisible useful. And have a bit of fun along the way.”
