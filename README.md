@@ -1,6 +1,7 @@
 <p align="right">
-  🇪🇸 [Leer en Español](./README_es.md)
+  🇬🇧 [Read in English](README.md)
 </p>
+
 
 
 # 🧠 DeepRat — Gonzalo Romero  
