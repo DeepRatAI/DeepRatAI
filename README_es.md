@@ -1,7 +1,3 @@
-<p align="right">
-  🇬🇧 [Read in English](./README.md)
-</p>
-
 # 🧠 DeepRat — Gonzalo Romero  
 **Ingeniero en Inteligencia Artificial, Software y Sistemas** · Creador de TrueEye · Pensador Técnico y Constructor Obsesivo
 
