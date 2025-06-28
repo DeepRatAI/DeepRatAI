@@ -33,8 +33,9 @@ Eventually, I found a domain where I could apply **everything I knew, loved, and
 And from there, I never stopped building.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeepRatAI/DeepRatAI/main/deeprat_comic.png" alt="DeepRat Comic Origin" width="100%">
+  <img src="img/dren.png" alt="DeepRat Comic Origin" width="100%">
 </p>
+
 
 ---
 
