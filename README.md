@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/bannergit.gif" alt="Banner TrueEye" width="100%">
+  <img src="img/gannergit.gif" alt="Banner TrueEye" width="100%">
 </p>
 
 # 🧠 DeepRat — Gonzalo Romero  
