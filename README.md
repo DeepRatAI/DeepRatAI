@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/bannergit.gif" alt="Banner TrueEye" width="100%">
+</p>
+
 # 🧠 DeepRat — Gonzalo Romero  
 **AI, Software and Systems Engineer** · Creator of TrueEye · Technical Thinker and Obsessive Builder
 > “Make the complex accessible. Make the invisible useful. And have a bit of fun along the way.”
