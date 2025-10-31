@@ -1,144 +1,127 @@
 <p align="center">
-  <img src="img/gannergit.gif" alt="Banner TrueEye" width="100%">
+  <img src="img/Welcome.gif" alt="Welcome to DeepRat Repositories" width="100%">
 </p>
 
-# 🧠 DeepRat — Gonzalo Romero  
-**AI, Software and Systems Engineer** · Creator of TrueEye · Technical Thinker and Obsessive Builder
-> “Make the complex accessible. Make the invisible useful. And have a bit of fun along the way.”
-
----
-
-## 💡 About This Repository
-
-This isn't a static portfolio.  
-This is my lab. My journal. My sandbox.
-
-A place to document experiments, code, benchmarks, architectures, breakthroughs — and sometimes breakdowns.  
-Everything here is fueled by obsession, crafted from scratch, and tested in the wild (often with caffeine, sometimes with existential dread).
-
-If it helps you learn, build, debug, or question something better — mission accomplished.
-
----
-
-## 👋 About Me
-
-Hi, I’m Gonzalo — but online, I go by **DeepRat**.
-
-I’m an **Engineer in Artificial Intelligence, Software and Systems**, trained formally and shaped obsessively by practice.  
-From backend APIs and retrieval architectures, to agents that analyze language and intent, I build systems that think, connect, and explain.
-
-When I was 6, a book fell into my hands like a prophecy:  
-**Cosmos**, by Carl Sagan.
-
-Since that day, I’ve been running through every branch of science — physics, psychology, philosophy, biology, math — not out of duty, but compulsion.  
-If it had structure, I wanted to break it open and understand how it breathed.
-
-Eventually, I found a domain where I could apply **everything I knew, loved, and questioned**: artificial intelligence.  
-And from there, I never stopped building.
+<h1 align="center">🧠 DeepRat — Gonzalo Luis Romero</h1>
+<p align="center"><b>E2E AI & Full-Stack Engineer</b></p>
 
 <p align="center">
-  <img src="img/dren.png" alt="DeepRat Comic Origin" width="100%">
+  <i>
+  I’ve loved science since I was 6, when I first read <b>Cosmos</b> by Carl Sagan.<br>
+  Around 15 years ago, I started playing with code — mostly because I got bored of
+  <a href="https://www.stalker-game.com/en/"><i>S.T.A.L.K.E.R.: Shadow of Chernobyl</i></a> and decided to mod it.<br><br>
+  I dedicated 5 years to formal technical education so far, completed 20+ courses and certifications, and spent the last 3 years specializing in my passion: <b>Artificial Intelligence</b>.
+  </i>
 </p>
 
+<p align="center">
+  <a href="mailto:contact@deepratai.dev"><img src="https://img.shields.io/badge/Email-contact%40deepratai.dev-20232A?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://deeprat.tech"><img src="https://img.shields.io/badge/Website-deeprat.tech-0A0A0A?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355"><img src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Romero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 What I Do
+## 📁 Projects
 
-### 🧩 I design and build intelligent systems
-- 🤖 **TrueEye** — Media Literacy AI that analyzes news for bias, audience and intent.
-- 🧠 **Multi-Agent Systems** — RAG pipelines with reasoning, memory, and task delegation.
-- 📚 **Educational Tools** — Like Mole, a bilingual chatbot that learns your documents.
-- 🧪 **Model Benchmarks** — Comparative tests on LLM performance, latency, semantic accuracy.
-- 🧬 **Conceptual Prototypes** — Like ConCiencia, a philosophical AI project exploring self-awareness.
+<table>
+  <tr>
+    <td width="25%">
+      <p align="center">
+        <img src="img/hun.gif" alt="HunyuanVidGen" width="100%"><br/>
+        <b>HunyuanVidGen</b><br/>
+        LTX Fast (ItV & PtV) — Smart ZeroGPU Inference<br/>
+        DeepRat Implementation
+      </p>
+    </td>
+    <td width="25%">
+      <p align="center">
+        <img src="img/Medx.gif" alt="MedeX" width="100%"><br/>
+        <b>MedeX</b><br/>
+        Advanced Medical AI Assistant — RAG + Kimi<br/>
+        Demo on HF Spaces
+      </p>
+    </td>
+    <td width="25%">
+      <p align="center">
+        <img src="img/te.gif" alt="TrueEye" width="100%"><br/>
+        <b>TrueEye</b><br/>
+        Media/News Analyzer — Bias & Manipulation Detection
+      </p>
+    </td>
+    <td width="25%">
+      <p align="center">
+        <img src="img/rat.png" alt="Educative Lab" width="100%"><br/>
+        <b>Educative-Lab</b><br/>
+        Interactive AI & Data Science Lessons<br/>
+        Open Educational Repository
+      </p>
+    </td>
+  </tr>
+</table>
 
----
-
-### 🔧 I operate across the full stack of intelligence
-
-**From concept to production** — I don’t just contribute parts.  
-I take raw ideas and shape them into deployable systems: I architect, code, integrate, optimize, and launch.  
-From backend APIs to RAG agents, from embeddings to fine-tuning, from prompt to product — I do it all, end-to-end.
-
----
-
-### ✨ I Design
-- Prompt engineering frameworks, reasoning trees, and agent workflows  
-- Modular RAG pipelines with semantic search, hybrid routing, multi-agent delegation and memory  
-- Multimodal architectures integrating text, vision, audio, and user context  
-- Tools that explain, contextualize, and adapt to real-world information  
-
----
-
-### 🧱 I Build
-- API backends using **FastAPI**, **LangChain**, **LangGraph**, and tool-integrated logic  
-- Agents powered by **open models** (LLaMA, Phi, Granite, Qwen, DeepSeek, etc.), **Claude**, **GPT-4**, **Cohere**, via **Ollama**, **Transformers**, or direct API  
-- Embedding engines with **MiniLM**, **Instructor**, **Specter2**, **CLIP**, **GTE**, custom ST models  
-- Vector pipelines using **FAISS**, **Chroma**, hybrid retrievers and semantic chunking  
-- Local inference setups with **Ollama**, **GGUF**, **AutoGPTQ**, and quantized adapters  
-- Tool-based reasoning using **ToolCalling**, **LangGraph agents**, custom toolkits  
-- Interfaces and apps built with **Gradio**, **HTML/CSS/JS**, and **Tailwind**  
-
----
-
-### 🧪 I Train & Fine-Tune
-- LoRA and **QLoRA** fine-tuning pipelines on **Colab A100** and **local Ollama**  
-- Adapter-based optimization using **PEFT**, **Transformers**, and **bitsandbytes**  
-- Training-ready scripts for model personalization, RAG adaptation and instructional tuning  
-- Quantized model deployment via **GGUF**, **4-bit inference**, **bitsandbytes**, and **AutoGPTQ**  
+> Demos and repositories are linked from my profile. If you’d like a technical walkthrough, just reach out.
 
 ---
 
-### 🚀 I Deploy
-- Live demos, APIs, and production apps on:
-  - **Hugging Face Spaces** (with Gradio or FastAPI)  
-  - **Google Cloud Platform (VMs with L4 GPU or T4)**  
-  - **Local Linux servers via SSH**, or containerized apps  
-- End-to-end architecture: from notebook to backend, from raw data to running app  
+## 🧰 Skills
 
----
+### 🐍 Languages
+Python · SQL · JavaScript / TypeScript · Bash
 
-## ⚙️ Technical Stack Overview
-
-### 📦 Core LLMs and Language Models
-- 🧠 **Open-source**: LLaMA (all versions), Phi (2/3/4), Qwen (chat/code/VL), DeepSeek, Granite (IBM), Gemma, Mistral, Mixtral, Falcon, Dolly, Zephyr, OpenChat, Nous-Hermes, Orca, GPT-J  
-- 📡 **API-accessible**: Claude 3 (Opus, Sonnet), GPT-4 / GPT-3.5, Cohere, DeepSeek Cloud, OpenRouter  
-- 🖥 **Local inference**: Ollama, Transformers.js, GGUF (GGML), AutoGPTQ, llama.cpp, QLoRA deployments  
-
-### 🔧 Training & Optimization
-- Fine-tuning with **LoRA**, **QLoRA**, **PEFT**, using **Transformers**, **bitsandbytes**, and **Colab A100 / Local GPU**  
-- Instruction tuning, quantization, adapter merging, and deployment for lightweight inference  
-
-### 🔍 Embeddings & Retrieval
-- Embeddings: MiniLM, Instructor-XL, GTE-base, Specter2, CLIP, E5, SBERT, Sentence-T5  
-- Vector DBs: FAISS (IndexFlatIP, HNSW), Chroma, Weaviate (test), Milvus (exploratory), Pinecone (basic)  
-- Custom retrievers: hybrid, weighted, multilingual, hierarchical memory  
+### 🤖 AI / LLMs / NLP
+Transformers · LangChain · LangGraph · RAG (hybrid retrievers, memory) · Prompt engineering · Fine-tuning (LoRA / QLoRA, PEFT) · Embeddings (SBERT, GTE, MiniLM, Specter2) · Vector DBs (FAISS, Chroma)
 
 ### 👁️ Vision & Multimodal
-- Vision: **OpenCV**, **YOLOv8**, **MediaPipe**, **Vision Transformers** (ViT, CLIP), **BLIP**, **Qwen-VL**  
-- Generative: **Stable Diffusion 1.5**, **SDXL**, **Realistic Vision**, **Dreamlike Photoreal**, Prompt-to-Image pipelines  
-- Multimodal orchestration between **text ↔ vision ↔ audio** (proof of concept)  
+OpenCV · YOLOv8 · CLIP · ViT · BLIP · Qwen-VL
 
-### 🧱 Tooling & Orchestration
-- LangGraph (agent trees, memory, tool routing), LangChain (chains, retrievers, tools)  
-- Custom memory managers, tool builders, query decomposers, and document loaders  
-- Backend services: FastAPI, Flask, Streamlit  
+### ⚙️ Model & Inference
+Ollama · GGUF / llama.cpp · AutoGPTQ · bitsandbytes · Quantization (4-bit) · Inference optimization (CPU / GPU)
 
-### 🖥 Frontend & Deployment
-- Gradio, HTML/CSS/JS, Tailwind, Markdown rendering, Jinja2  
-- Hugging Face Spaces (FastAPI & Gradio apps), Google Cloud VMs, Colab Pro   
-- Local deployment via Docker, Linux VM + SSH, Ollama agents  
+### 🧩 Backend & APIs
+FastAPI · Flask · WebSockets · REST · Auth / Secrets · Rate-limiting
 
-### 🔧 General Tools & Workflow
-- Git, GitHub Actions, rclone, gdown, Notion, VS Code + SSH, bash scripting  
-- JupyterLab, Google Colab Pro, Markdown-based docs, GCP firewall + network setup  
+### 📊 Data & Analytics
+Pandas · NumPy · scikit-learn · UMAP · Matplotlib / Seaborn
+
+### ☁️ Cloud, DevOps & CI/CD
+AWS (Bedrock, S3, Lambda, API Gateway, EC2) · Docker · GitHub Actions · HF Spaces (Gradio / FastAPI) · Linux / SSH
+
+### 🗄️ Databases & Storage
+PostgreSQL · SQLite · Weaviate / Milvus (exploratory) · Filesystem & caching
+
+### 🔧 Tooling
+VS Code + SSH · Jupyter / Colab · rclone · gdown · Make
 
 ---
 
-## 💬 Final Note
+## 📚 Open Knowledge Vault — Certifications & Specializations
 
-Everything I build is modular, reproducible, and functional —  
-**Not just notebooks. Not just demos. Real systems built to think, adapt, and run.**
+<details>
+  <summary><b>📦 Click to open</b></summary>
 
-> “Reality is far too beautiful. There’s so much to discover, that I knew I would never feel empty again.”  
-> — *DeepRat*
+- [Machine Learning with Python — IBM / Coursera (with Honors)](https://www.coursera.org/account/accomplishments/verify/SW7LSLODUZUT)  
+- [Deep Neural Networks with PyTorch — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/5CY9OXPL6I7U)  
+- [AI & Machine Learning Professional Certificate — IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/RSIQ88E92KMH)  
+- [Generative AI Foundations — IBM / Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/KGPJ34OTAQXR)  
+- [Mathematics for Machine Learning — Duke University / Coursera](https://www.coursera.org/account/accomplishments/verify/CXEO3X2KPEJL)  
+- [Deep Learning — IBM / Coursera](https://www.coursera.org/account/accomplishments/certificate/RWJ6S047T5AK)  
+- [Advanced Machine Learning and Signal Processing — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/SQZGS7JIGS1L)  
+- [Introduction to Computer Vision and Image Processing — IBM / Coursera](https://www.coursera.org/account/accomplishments/certificate/Y4YMMARVQVI1)  
+- [Python for Data Science, AI & Development — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/DSYIPSU2SUOC)  
+- [Databases and SQL for Data Science — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/ASHKW06G2OYZ)  
+- [Tools for Data Science — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/P93YN7IBD6SC)  
+- [Data Visualization with Python — IBM / Coursera](https://www.coursera.org/account/accomplishments/certificate/NYRAY3CWX5OM)  
+- [Data Analysis with Python — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/0H61CITWOIZO)  
+- [Machine Learning with Python — IBM Developer Skills Network](https://www.coursera.org/account/accomplishments/certificate/DC3R530QSFEX)  
+- [Deep Learning with TensorFlow — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/XWHCZJ2X7KBY)  
+
+📘 *Full certification record available on [LinkedIn](https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355)*  
+
+</details>
+
+---
+
+> *“Make the complex accessible. Make the invisible useful. And have a bit of fun along the way.”*  
+> — DeepRat
