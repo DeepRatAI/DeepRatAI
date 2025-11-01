@@ -5,7 +5,7 @@
   <tr>
     <td style="width:50%; border:2px solid #bbb; border-radius:12px; padding:12px; vertical-align:top;">
       <p align="center">
-        <img src="img/Welcome.gif" alt="Welcome to DeepRat Repositories" width="100%">
+        <img src="img/Welcome.gif" alt="Welcome to DeepRat Repositories" style="width:100%;">
       </p>
     </td>
 
@@ -14,7 +14,7 @@
       <p>
         I’ve loved science since I was 6, when I first read <i>Cosmos</i> by Carl Sagan.
         Around 15 years ago I started playing with code — mostly because I got bored of
-        <a href="https://www.stalker-game.com/en/" target="_blank">S.T.A.L.K.E.R.: Shadow of Chernobyl</a> and decided to mod it.
+        <a href="https://www.stalker-game.com/en/" target="_blank" rel="noopener noreferrer">S.T.A.L.K.E.R.: Shadow of Chernobyl</a> and decided to mod it.
       </p>
       <p>
         I dedicated <b>5</b> years of formal technical education, completed <b>20+</b> courses &amp; certifications,
@@ -24,10 +24,10 @@
         Contact me for collaboration, development, or just to talk about AI, science, or an idea you’d like to bring to life.
       </p>
       <p align="center">
-        <a href="mailto:contact@deepratai.dev"><img src="https://img.shields.io/badge/Email-contact%40deepratai.dev-20232A?style=for-the-badge&logo=gmail" /></a>
-        <a href="https://deeprat.tech"><img src="https://img.shields.io/badge/Website-deeprat.tech-0A0A0A?style=for-the-badge&logo=vercel" /></a>
-        <a href="https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355"><img src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Romero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="https://www.reddit.com/user/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+        <a href="mailto:contact@deepratai.dev"><img src="https://img.shields.io/badge/Email-contact%40deepratai.dev-20232A?style=for-the-badge&amp;logo=gmail" /></a>
+        <a href="https://deeprat.tech"><img src="https://img.shields.io/badge/Website-deeprat.tech-0A0A0A?style=for-the-badge&amp;logo=vercel" /></a>
+        <a href="https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355"><img src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Romero-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+        <a href="https://www.reddit.com/user/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -42,7 +42,7 @@
       <table width="100%" border="0" cellspacing="0" cellpadding="6" style="margin-bottom:14px;">
         <tr>
           <td style="width:45%; vertical-align:middle;">
-            <img src="img/hun.gif" alt="LTX Fast Video Gen (ZeroGPU Smart Inference)" width="100%">
+            <img src="img/hun.gif" alt="LTX Fast Video Gen (ZeroGPU Smart Inference)" style="width:100%;">
           </td>
           <td style="width:55%; vertical-align:middle;">
             <b>LTX Fast (ItV &amp; PtV) — Smart ZeroGPU Inference</b><br>
@@ -56,7 +56,7 @@
       <table width="100%" border="0" cellspacing="0" cellpadding="6" style="margin-bottom:14px;">
         <tr>
           <td style="width:45%; vertical-align:middle;">
-            <img src="img/Medx.gif" alt="MedeX — Advanced Medical AI Assistant" width="100%">
+            <img src="img/Medx.gif" alt="MedeX — Advanced Medical AI Assistant" style="width:100%;">
           </td>
           <td style="width:55%; vertical-align:middle;">
             <b>MedeX — Advanced Medical AI Assistant</b><br>
@@ -70,7 +70,7 @@
       <table width="100%" border="0" cellspacing="0" cellpadding="6" style="margin-bottom:14px;">
         <tr>
           <td style="width:45%; vertical-align:middle;">
-            <img src="img/te.gif" alt="TrueEye — Media/News Analyzer" width="100%">
+            <img src="img/te.gif" alt="TrueEye — Media/News Analyzer" style="width:100%;">
           </td>
           <td style="width:55%; vertical-align:middle;">
             <b>TrueEye — Media/News Analyzer</b><br>
@@ -84,7 +84,7 @@
       <table width="100%" border="0" cellspacing="0" cellpadding="6">
         <tr>
           <td style="width:45%; vertical-align:middle;">
-            <img src="img/rat.png" alt="DeepRat Educative Lessons Hub" width="100%">
+            <img src="img/rat.png" alt="DeepRat Educative Lessons Hub" style="width:100%;">
           </td>
           <td style="width:55%; vertical-align:middle;">
             <b>DeepRat Interactive Lessons — Educative Repo</b><br>
@@ -101,51 +101,51 @@
 
       <h4>Cloud &amp; DevOps</h4>
       <p>
-        <img src="https://img.shields.io/badge/AWS-Bedrock,_S3,_EC2,_IAM-F29100?logo=amazonaws&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white">
-        <img src="https://img.shields.io/badge/GCP-Compute,_Storage-4285F4?logo=googlecloud&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-Bedrock,_S3,_EC2,_IAM-F29100?logo=amazonaws&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/GCP-Compute,_Storage-4285F4?logo=googlecloud&amp;logoColor=white">
       </p>
 
       <h4>Back-End &amp; APIs</h4>
       <p>
-        <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/FastAPI-APIs-009688?logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-Services-000000?logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/SQL-PostgreSQL/MySQL-336791?logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-APIs-009688?logo=fastapi&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-Services-000000?logo=flask&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-PostgreSQL%2FMySQL-336791?logo=postgresql&amp;logoColor=white">
       </p>
 
       <h4>LLMs, RAG &amp; Agents</h4>
       <p>
-        <img src="https://img.shields.io/badge/LangChain-Chains_&_Tools-2C3E50">
+        <img src="https://img.shields.io/badge/LangChain-Chains_%26_Tools-2C3E50">
         <img src="https://img.shields.io/badge/LangGraph-Agents-2C3E50">
         <img src="https://img.shields.io/badge/FAISS-Vector_DB-2C3E50">
         <img src="https://img.shields.io/badge/Chroma-Vector_DB-2C3E50">
-        <img src="https://img.shields.io/badge/Ollama-Local_Inference-000000?logo=ollama&logoColor=white">
+        <img src="https://img.shields.io/badge/Ollama-Local_Inference-000000?logo=ollama&amp;logoColor=white">
       </p>
 
       <h4>Models &amp; Training</h4>
       <p>
-        <img src="https://img.shields.io/badge/Transformers-PEFT,_LoRA-FF6F00?logo=huggingface&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-Training-EE4C2C?logo=pytorch&logoColor=white">
-        <img src="https://img.shields.io/badge/QLoRA/BnB-Optimization-2C3E50">
-        <img src="https://img.shields.io/badge/GGUF/llama.cpp-Quant-2C3E50">
+        <img src="https://img.shields.io/badge/Transformers-PEFT,_LoRA-FF6F00?logo=huggingface&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-Training-EE4C2C?logo=pytorch&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/QLoRA%2FBnB-Optimization-2C3E50">
+        <img src="https://img.shields.io/badge/GGUF%2Fllama.cpp-Quant-2C3E50">
       </p>
 
       <h4>Vision &amp; Multimodal</h4>
       <p>
-        <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?logo=opencv&logoColor=white">
+        <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?logo=opencv&amp;logoColor=white">
         <img src="https://img.shields.io/badge/YOLOv8-Detection-00A300">
-        <img src="https://img.shields.io/badge/SDXL/SD1.5-Gen-2C3E50">
-        <img src="https://img.shields.io/badge/CLIP/ViT-Embeddings-2C3E50">
+        <img src="https://img.shields.io/badge/SDXL%2FSD1.5-Gen-2C3E50">
+        <img src="https://img.shields.io/badge/CLIP%2FViT-Embeddings-2C3E50">
       </p>
 
       <h4>Data &amp; Analytics</h4>
       <p>
-        <img src="https://img.shields.io/badge/Numpy-Array_Science-013243?logo=numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/Pandas-Data-150458?logo=pandas&logoColor=white">
-        <img src="https://img.shields.io/badge/Scikit--learn-ML-FF9F1C?logo=scikitlearn&logoColor=white">
-        <img src="https://img.shields.io/badge/Matplotlib/Seaborn-Plotting-2C3E50">
+        <img src="https://img.shields.io/badge/Numpy-Array_Science-013243?logo=numpy&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-Data-150458?logo=pandas&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Scikit--learn-ML-FF9F1C?logo=scikitlearn&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Matplotlib%2FSeaborn-Plotting-2C3E50">
       </p>
     </td>
   </tr>
