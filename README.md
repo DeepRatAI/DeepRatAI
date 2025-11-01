@@ -44,84 +44,185 @@
       </p>
     </td>
     <td width="25%">
+      <p align="center"><!-- ====== GRID LAYOUT (BORDERS ON) ====== -->
+<table width="100%" border="0" cellspacing="12" cellpadding="0">
+
+  <!-- Row 1: Banner (izquierda) + Bio (derecha) -->
+  <tr>
+    <td style="width:50%; border:2px solid #bbb; border-radius:12px; padding:12px; vertical-align:top;">
       <p align="center">
-        <img src="img/te.gif" alt="TrueEye" width="100%"><br/>
-        <b>TrueEye</b><br/>
-        Media/News Analyzer — Bias & Manipulation Detection
+        <img src="img/Welcome.gif" alt="Welcome to DeepRat Repositories" width="100%">
       </p>
     </td>
-    <td width="25%">
-      <p align="center">
-        <img src="img/rat.png" alt="Educative Lab" width="100%"><br/>
-        <b>Educative-Lab</b><br/>
-        Interactive AI & Data Science Lessons<br/>
-        Open Educational Repository
+
+    <td style="width:50%; border:2px solid #bbb; border-radius:12px; padding:18px; vertical-align:top;">
+      <h3 align="center">Hi, I’m Gonzalo Luis Romero, aka <b>DeepRat</b> — an E2E AI &amp; Full-Stack Engineer.</h3>
+      <p>
+        I’ve loved science since I was 6, when I first read <i>Cosmos</i> by Carl Sagan.
+        Around 15 years ago I started playing with code — mostly because I got bored of
+        <a href="https://www.stalker-game.com/en/" target="_blank">S.T.A.L.K.E.R.: Shadow of Chernobyl</a> and decided to mod it.
       </p>
+      <p>
+        I dedicated <b>5</b> years of formal technical education, completed <b>20+</b> courses &amp; certifications,
+        and spent the last <b>3</b> years specializing in my passion: <b>Artificial Intelligence</b>.
+      </p>
+      <p>
+        Contact me for collaboration, development, or just to talk about AI, science, or an idea you’d like to bring to life.
+      </p>
+      <p align="center">
+        <a href="mailto:contact@deepratai.dev"><img src="https://img.shields.io/badge/Email-contact%40deepratai.dev-20232A?style=for-the-badge&logo=gmail" /></a>
+        <a href="https://deeprat.tech"><img src="https://img.shields.io/badge/Website-deeprat.tech-0A0A0A?style=for-the-badge&logo=vercel" /></a>
+        <a href="https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355"><img src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Romero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://www.reddit.com/user/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2: Projects (izquierda) + Skills (derecha) -->
+  <tr>
+    <!-- Projects -->
+    <td style="width:50%; border:2px solid #bbb; border-radius:12px; padding:18px; vertical-align:top;">
+      <h2>Projects</h2>
+
+      <!-- Project 1: LTX / Fast Video Gen -->
+      <table width="100%" border="0" cellspacing="0" cellpadding="6" style="margin-bottom:14px;">
+        <tr>
+          <td style="width:45%; vertical-align:middle;">
+            <img src="img/hun.gif" alt="LTX Fast Video Gen (ZeroGPU Smart Inference)" width="100%">
+          </td>
+          <td style="width:55%; vertical-align:middle;">
+            <b>LTX Fast (ItV &amp; PtV) — Smart ZeroGPU Inference</b><br>
+            Optimized video generation demos (research-grade).<br>
+            <i>DeepRat implementation</i>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Project 2: MedeX -->
+      <table width="100%" border="0" cellspacing="0" cellpadding="6" style="margin-bottom:14px;">
+        <tr>
+          <td style="width:45%; vertical-align:middle;">
+            <img src="img/Medx.gif" alt="MedeX — Advanced Medical AI Assistant" width="100%">
+          </td>
+          <td style="width:55%; vertical-align:middle;">
+            <b>MedeX — Advanced Medical AI Assistant</b><br>
+            RAG + LLM clinical reasoning (educational prototype).<br>
+            <i>DeepRat implementation</i>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Project 3: TrueEye -->
+      <table width="100%" border="0" cellspacing="0" cellpadding="6" style="margin-bottom:14px;">
+        <tr>
+          <td style="width:45%; vertical-align:middle;">
+            <img src="img/te.gif" alt="TrueEye — Media/News Analyzer" width="100%">
+          </td>
+          <td style="width:55%; vertical-align:middle;">
+            <b>TrueEye — Media/News Analyzer</b><br>
+            Detects bias, audience and manipulation in news content.<br>
+            <i>DeepRat implementation</i>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Project 4: Educative Lab -->
+      <table width="100%" border="0" cellspacing="0" cellpadding="6">
+        <tr>
+          <td style="width:45%; vertical-align:middle;">
+            <img src="img/rat.png" alt="DeepRat Educative Lessons Hub" width="100%">
+          </td>
+          <td style="width:55%; vertical-align:middle;">
+            <b>DeepRat Interactive Lessons — Educative Repo</b><br>
+            Hands-on labs (e.g., YOLOv8) and future modular lessons.<br>
+            <i>Knowledge hub</i>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+    <!-- Skills -->
+    <td style="width:50%; border:2px solid #bbb; border-radius:12px; padding:18px; vertical-align:top;">
+      <h2>Skills</h2>
+
+      <h4>Cloud &amp; DevOps</h4>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-Bedrock,_S3,_EC2,_IAM-F29100?logo=amazonaws&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white">
+        <img src="https://img.shields.io/badge/GCP-Compute,_Storage-4285F4?logo=googlecloud&logoColor=white">
+      </p>
+
+      <h4>Back-End &amp; APIs</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/FastAPI-APIs-009688?logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-Services-000000?logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/SQL-PostgreSQL/MySQL-336791?logo=postgresql&logoColor=white">
+      </p>
+
+      <h4>LLMs, RAG &amp; Agents</h4>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-Chains_&_Tools-2C3E50">
+        <img src="https://img.shields.io/badge/LangGraph-Agents-2C3E50">
+        <img src="https://img.shields.io/badge/FAISS-Vector_DB-2C3E50">
+        <img src="https://img.shields.io/badge/Chroma-Vector_DB-2C3E50">
+        <img src="https://img.shields.io/badge/Ollama-Local_Inference-000000?logo=ollama&logoColor=white">
+      </p>
+
+      <h4>Models &amp; Training</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Transformers-PEFT,_LoRA-FF6F00?logo=huggingface&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-Training-EE4C2C?logo=pytorch&logoColor=white">
+        <img src="https://img.shields.io/badge/QLoRA/BnB-Optimization-2C3E50">
+        <img src="https://img.shields.io/badge/GGUF/llama.cpp-Quant-2C3E50">
+      </p>
+
+      <h4>Vision &amp; Multimodal</h4>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?logo=opencv&logoColor=white">
+        <img src="https://img.shields.io/badge/YOLOv8-Detection-00A300">
+        <img src="https://img.shields.io/badge/SDXL/SD1.5-Gen-2C3E50">
+        <img src="https://img.shields.io/badge/CLIP/ViT-Embeddings-2C3E50">
+      </p>
+
+      <h4>Data &amp; Analytics</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Numpy-Array_Science-013243?logo=numpy&logoColor=white">
+        <img src="https://img.shields.io/badge/Pandas-Data-150458?logo=pandas&logoColor=white">
+        <img src="https://img.shields.io/badge/Scikit--learn-ML-FF9F1C?logo=scikitlearn&logoColor=white">
+        <img src="https://img.shields.io/badge/Matplotlib/Seaborn-Plotting-2C3E50">
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 3: Open Knowledge Vault -->
+  <tr>
+    <td colspan="2" style="border:2px solid #bbb; border-radius:12px; padding:18px;">
+      <h2 align="center">🧠 Open Knowledge Vault — Certifications &amp; Specializations</h2>
+      <details>
+        <summary><b>📘 Click to expand full list</b></summary>
+        <ul>
+          <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RSIQ88E92KMH">IBM AI & Machine Learning Professional Certificate</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KGPJ34OTAQXR">IBM Generative AI Foundations</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/CXEO3X2KPEJL">Mathematics for Machine Learning — Duke University</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/certificate/RWJ6S047T5AK">Deep Learning — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/SQZGS7JIGS1L">Advanced Machine Learning and Signal Processing — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/certificate/Y4YMMARVQVI1">Intro to Computer Vision and Image Processing — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/DSYIPSU2SUOC">Python for Data Science, AI & Development — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/ASHKW06G2OYZ">Databases and SQL for Data Science — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/P93YN7IBD6SC">Tools for Data Science — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/certificate/NYRAY3CWX5OM">Data Visualization with Python — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/0H61CITWOIZO">Data Analysis with Python — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/SW7LSLODUZUT">Machine Learning with Python (with Honors) — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/5CY9OXPL6I7U">Deep Neural Networks with PyTorch — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/verify/XWHCZJ2X7KBY">Deep Learning with TensorFlow — IBM</a></li>
+          <li><a href="https://www.coursera.org/account/accomplishments/certificate/DC3R530QSFEX">Machine Learning with Python — IBM Developer Skills Network</a></li>
+        </ul>
+        <p><i>Full record available on LinkedIn:</i> <a href="https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355/">linkedin.com/in/gonzalo-luis-romero-b9b5b4355</a></p>
+      </details>
     </td>
   </tr>
 </table>
 
-> Demos and repositories are linked from my profile. If you’d like a technical walkthrough, just reach out.
-
 ---
-
-## 🧰 Skills
-
-### 🐍 Languages
-Python · SQL · JavaScript / TypeScript · Bash
-
-### 🤖 AI / LLMs / NLP
-Transformers · LangChain · LangGraph · RAG (hybrid retrievers, memory) · Prompt engineering · Fine-tuning (LoRA / QLoRA, PEFT) · Embeddings (SBERT, GTE, MiniLM, Specter2) · Vector DBs (FAISS, Chroma)
-
-### 👁️ Vision & Multimodal
-OpenCV · YOLOv8 · CLIP · ViT · BLIP · Qwen-VL
-
-### ⚙️ Model & Inference
-Ollama · GGUF / llama.cpp · AutoGPTQ · bitsandbytes · Quantization (4-bit) · Inference optimization (CPU / GPU)
-
-### 🧩 Backend & APIs
-FastAPI · Flask · WebSockets · REST · Auth / Secrets · Rate-limiting
-
-### 📊 Data & Analytics
-Pandas · NumPy · scikit-learn · UMAP · Matplotlib / Seaborn
-
-### ☁️ Cloud, DevOps & CI/CD
-AWS (Bedrock, S3, Lambda, API Gateway, EC2) · Docker · GitHub Actions · HF Spaces (Gradio / FastAPI) · Linux / SSH
-
-### 🗄️ Databases & Storage
-PostgreSQL · SQLite · Weaviate / Milvus (exploratory) · Filesystem & caching
-
-### 🔧 Tooling
-VS Code + SSH · Jupyter / Colab · rclone · gdown · Make
-
----
-
-## 📚 Open Knowledge Vault — Certifications & Specializations
-
-<details>
-  <summary><b>📦 Click to open</b></summary>
-
-- [Machine Learning with Python — IBM / Coursera (with Honors)](https://www.coursera.org/account/accomplishments/verify/SW7LSLODUZUT)  
-- [Deep Neural Networks with PyTorch — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/5CY9OXPL6I7U)  
-- [AI & Machine Learning Professional Certificate — IBM](https://www.coursera.org/account/accomplishments/specialization/certificate/RSIQ88E92KMH)  
-- [Generative AI Foundations — IBM / Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/KGPJ34OTAQXR)  
-- [Mathematics for Machine Learning — Duke University / Coursera](https://www.coursera.org/account/accomplishments/verify/CXEO3X2KPEJL)  
-- [Deep Learning — IBM / Coursera](https://www.coursera.org/account/accomplishments/certificate/RWJ6S047T5AK)  
-- [Advanced Machine Learning and Signal Processing — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/SQZGS7JIGS1L)  
-- [Introduction to Computer Vision and Image Processing — IBM / Coursera](https://www.coursera.org/account/accomplishments/certificate/Y4YMMARVQVI1)  
-- [Python for Data Science, AI & Development — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/DSYIPSU2SUOC)  
-- [Databases and SQL for Data Science — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/ASHKW06G2OYZ)  
-- [Tools for Data Science — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/P93YN7IBD6SC)  
-- [Data Visualization with Python — IBM / Coursera](https://www.coursera.org/account/accomplishments/certificate/NYRAY3CWX5OM)  
-- [Data Analysis with Python — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/0H61CITWOIZO)  
-- [Machine Learning with Python — IBM Developer Skills Network](https://www.coursera.org/account/accomplishments/certificate/DC3R530QSFEX)  
-- [Deep Learning with TensorFlow — IBM / Coursera](https://www.coursera.org/account/accomplishments/verify/XWHCZJ2X7KBY)  
-
-📘 *Full certification record available on [LinkedIn](https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355)*  
-
-</details>
-
----
-
-> *“Make the complex accessible. Make the invisible useful. And have a bit of fun along the way.”*  
-> — DeepRat
