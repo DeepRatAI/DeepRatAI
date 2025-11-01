@@ -1,13 +1,12 @@
-<table>
-<tr>
-<td width="50%">
+<div align="center">
+  <img src="img/Welcome.gif" alt="Welcome to DeepRat Repositories" width="600">
+</div>
 
-![Welcome to DeepRat Repositories](img/Welcome.gif)
+---
 
-</td>
-<td width="50%">
+### <div align="center">Hi, I'm Gonzalo Luis Romero, aka **DeepRat** — an E2E AI & Full-Stack Engineer.</div>
 
-### Hi, I'm Gonzalo Luis Romero, aka **DeepRat** — an E2E AI & Full-Stack Engineer.
+<div align="center">
 
 I've loved science since I was 6, when I first read *Cosmos* by Carl Sagan. Around 15 years ago I started playing with code — mostly because I got bored of [S.T.A.L.K.E.R.: Shadow of Chernobyl](https://www.stalker-game.com/en/) and decided to mod it.
 
@@ -15,135 +14,65 @@ I dedicated **5** years of formal technical education, completed **20+** courses
 
 Contact me for collaboration, development, or just to talk about AI, science, or an idea you'd like to bring to life.
 
-<div align="center">
-
 [![Email](https://img.shields.io/badge/Email-contact%40deepratai.dev-20232A?style=for-the-badge&logo=gmail)](mailto:contact@deepratai.dev)
 [![Website](https://img.shields.io/badge/Website-deeprat.tech-0A0A0A?style=for-the-badge&logo=vercel)](https://deeprat.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gonzalo%20Romero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355)
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-## Projects
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="45%">
+| | |
+|---|---|
+| <img src="img/hun.gif" alt="LTX Fast Video Gen" width="250"> | **LTX Fast (ItV & PtV) — Smart ZeroGPU Inference**<br>Optimized video generation demos (research-grade).<br>*DeepRat implementation* |
+| <img src="img/Medx.gif" alt="MedeX" width="250"> | **MedeX — Advanced Medical AI Assistant**<br>RAG + LLM clinical reasoning (educational prototype).<br>*DeepRat implementation* |
+| <img src="img/te.gif" alt="TrueEye" width="250"> | **TrueEye — Media/News Analyzer**<br>Detects bias, audience and manipulation in news content.<br>*DeepRat implementation* |
+| <img src="img/rat.png" alt="DeepRat Educative Lessons Hub" width="250"> | **DeepRat Interactive Lessons — Educative Repo**<br>Hands-on labs (e.g., YOLOv8) and future modular lessons.<br>*Knowledge hub* |
 
-![LTX Fast Video Gen](img/hun.gif)
+---
 
-</td>
-<td width="55%">
+## 💻 Skills
 
-**LTX Fast (ItV & PtV) — Smart ZeroGPU Inference**  
-Optimized video generation demos (research-grade).  
-*DeepRat implementation*
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="45%">
-
-![MedeX](img/Medx.gif)
-
-</td>
-<td width="55%">
-
-**MedeX — Advanced Medical AI Assistant**  
-RAG + LLM clinical reasoning (educational prototype).  
-*DeepRat implementation*
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="45%">
-
-![TrueEye](img/te.gif)
-
-</td>
-<td width="55%">
-
-**TrueEye — Media/News Analyzer**  
-Detects bias, audience and manipulation in news content.  
-*DeepRat implementation*
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="45%">
-
-![DeepRat Educative Lessons Hub](img/rat.png)
-
-</td>
-<td width="55%">
-
-**DeepRat Interactive Lessons — Educative Repo**  
-Hands-on labs (e.g., YOLOv8) and future modular lessons.  
-*Knowledge hub*
-
-</td>
-</tr>
-</table>
-
-</td>
-<td width="50%" valign="top">
-
-## Skills
-
-#### Cloud & DevOps
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-Bedrock,_S3,_EC2,_IAM-F29100?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=githubactions&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-Compute,_Storage-4285F4?logo=googlecloud&logoColor=white)
 
-#### Back-End & APIs
+### Back-End & APIs
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-APIs-009688?logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Services-000000?logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL/MySQL-336791?logo=postgresql&logoColor=white)
 
-#### LLMs, RAG & Agents
+### LLMs, RAG & Agents
 ![LangChain](https://img.shields.io/badge/LangChain-Chains_&_Tools-2C3E50)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agents-2C3E50)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-2C3E50)
 ![Chroma](https://img.shields.io/badge/Chroma-Vector_DB-2C3E50)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_Inference-000000?logo=ollama&logoColor=white)
 
-#### Models & Training
+### Models & Training
 ![Transformers/PEFT](https://img.shields.io/badge/Transformers-PEFT,_LoRA-FF6F00?logo=huggingface&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Training-EE4C2C?logo=pytorch&logoColor=white)
 ![QLoRA](https://img.shields.io/badge/QLoRA/BnB-Optimization-2C3E50)
 ![GGUF](https://img.shields.io/badge/GGUF/llama.cpp-Quant-2C3E50)
 
-#### Vision & Multimodal
+### Vision & Multimodal
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Detection-00A300)
 ![Stable Diffusion](https://img.shields.io/badge/SDXL/SD1.5-Gen-2C3E50)
 ![CLIP/ViT](https://img.shields.io/badge/CLIP/ViT-Embeddings-2C3E50)
 
-#### Data & Analytics
+### Data & Analytics
 ![NumPy](https://img.shields.io/badge/Numpy-Array_Science-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-FF9F1C?logo=scikitlearn&logoColor=white)
 ![Matplotlib/Seaborn](https://img.shields.io/badge/Matplotlib/Seaborn-Plotting-2C3E50)
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
+---
 
 ## 🧠 Open Knowledge Vault — Certifications & Specializations
 
@@ -169,7 +98,3 @@ Hands-on labs (e.g., YOLOv8) and future modular lessons.
 *Full record available on LinkedIn:* [linkedin.com/in/gonzalo-luis-romero-b9b5b4355](https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355/)
 
 </details>
-
-</td>
-</tr>
-</table>
