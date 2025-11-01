@@ -1,50 +1,4 @@
-<p align="center">
-  <img src="img/Welcome.gif" alt="Welcome to DeepRat Repositories" width="100%">
-</p>
-
-<h1 align="center">🧠 DeepRat — Gonzalo Luis Romero</h1>
-<p align="center"><b>E2E AI & Full-Stack Engineer</b></p>
-
-<p align="center">
-  <i>
-  I’ve loved science since I was 6, when I first read <b>Cosmos</b> by Carl Sagan.<br>
-  Around 15 years ago, I started playing with code — mostly because I got bored of
-  <a href="https://www.stalker-game.com/en/"><i>S.T.A.L.K.E.R.: Shadow of Chernobyl</i></a> and decided to mod it.<br><br>
-  I dedicated 5 years to formal technical education so far, completed 20+ courses and certifications, and spent the last 3 years specializing in my passion: <b>Artificial Intelligence</b>.
-  </i>
-</p>
-
-<p align="center">
-  <a href="mailto:contact@deepratai.dev"><img src="https://img.shields.io/badge/Email-contact%40deepratai.dev-20232A?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://deeprat.tech"><img src="https://img.shields.io/badge/Website-deeprat.tech-0A0A0A?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://www.linkedin.com/in/gonzalo-luis-romero-b9b5b4355"><img src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Romero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.reddit.com/user/"><img src="https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-</p>
-
----
-
-## 📁 Projects
-
-<table>
-  <tr>
-    <td width="25%">
-      <p align="center">
-        <img src="img/hun.gif" alt="HunyuanVidGen" width="100%"><br/>
-        <b>HunyuanVidGen</b><br/>
-        LTX Fast (ItV & PtV) — Smart ZeroGPU Inference<br/>
-        DeepRat Implementation
-      </p>
-    </td>
-    <td width="25%">
-      <p align="center">
-        <img src="img/Medx.gif" alt="MedeX" width="100%"><br/>
-        <b>MedeX</b><br/>
-        Advanced Medical AI Assistant — RAG + Kimi<br/>
-        Demo on HF Spaces
-      </p>
-    </td>
-    <td width="25%">
-      <p align="center"><!-- ====== GRID LAYOUT (BORDERS ON) ====== -->
+<!-- ====== GRID LAYOUT (BORDERS ON) ====== -->
 <table width="100%" border="0" cellspacing="12" cellpadding="0">
 
   <!-- Row 1: Banner (izquierda) + Bio (derecha) -->
@@ -226,3 +180,5 @@
 </table>
 
 ---
+
+<!-- End of README -->
