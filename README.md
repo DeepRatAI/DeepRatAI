@@ -15,89 +15,79 @@
 
 ---
 
-## 💻 Skills
+## Technical Skillset
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="38" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="38" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="38" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="38" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="38" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="38" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="38" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="38" />
+  <img src="https://cdn.simpleicons.org/langchain/000000" width="38" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="38" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="38" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="38" />
+  <img src="https://cdn.simpleicons.org/postgresql/336791" width="38" />
+</p>
 
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+---
 
-### ⚙️ **Backend & APIs**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+**⯈ GenAI & Applied AI Systems**  
+• LLMs: GPT, Mistral, LLaMA, Falcon, Kimi, Qwen-VL  
+• RAG: LangChain, LangGraph, FAISS, Chroma, Weaviate, Pinecone  
+• Vector DBs: Qdrant, Milvus, ChromaDB  
+• Agents: ReAct, AutoGPTQ, OpenAgents  
+• Fine-Tuning: LoRA, QLoRA, PEFT, bitsandbytes  
+• Formats: GGUF, llama.cpp
 
-### 🤖 **LLMs, RAG & Agents**
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Chroma](https://img.shields.io/badge/Chroma-8A2BE2?style=for-the-badge&logo=chromatic&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-3FCF8E?style=for-the-badge&logo=weaviate&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![AutoGPTQ](https://img.shields.io/badge/AutoGPTQ-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white)
+**⚙ AI Modeling & Training**  
+• Frameworks: PyTorch, Transformers, scikit-learn, XGBoost  
+• Workflows: Training pipelines, quantization, distillation, eval metrics  
+• Vision: OpenCV, YOLOv8, CLIP, BLIP, ViT, Stable Diffusion, SDXL
 
-### 🔬 **Models & Training**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![PEFT](https://img.shields.io/badge/PEFT-FF9900?style=for-the-badge&logo=pytorch&logoColor=white)
-![bitsandbytes](https://img.shields.io/badge/bitsandbytes-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![QLoRA](https://img.shields.io/badge/QLoRA-20B2AA?style=for-the-badge&logo=arduino&logoColor=white)
-![GGUF](https://img.shields.io/badge/GGUF-800080?style=for-the-badge&logo=cplusplus&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**✦ NLP & Data Intelligence**  
+• Embeddings: SentenceTransformers, Cohere, OpenAI, HF models  
+• Processing: spaCy, NLTK, Regex, custom pipelines  
+• Graph Reasoning: GraphRAG, LangGraph memory
 
-### 🎨 **Vision & Multimodal**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![CLIP](https://img.shields.io/badge/CLIP-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vision Transformer](https://img.shields.io/badge/ViT-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![BLIP](https://img.shields.io/badge/BLIP-4285F4?style=for-the-badge&logo=salesforce&logoColor=white)
-![Qwen-VL](https://img.shields.io/badge/Qwen--VL-00A8E1?style=for-the-badge&logo=alibaba&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=for-the-badge&logo=stability-ai&logoColor=white)
-![SDXL](https://img.shields.io/badge/SDXL-FF4081?style=for-the-badge&logo=stability-ai&logoColor=white)
+**➤ Backend Engineering**  
+• Languages: Python (Advanced)  
+• APIs: FastAPI, Flask, WebSocket  
+• Auth & Security: JWT, OAuth2, RBAC, Multi-Tenant  
+• DBs: PostgreSQL, MySQL, SQLite, MongoDB  
+• Observability: Logging, Prometheus, Grafana
 
-### 📊 **Data Science & Analytics**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![UMAP](https://img.shields.io/badge/UMAP-E91E63?style=for-the-badge&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+**⧉ MLOps & Deployment**  
+• Hosting: Hugging Face, Ollama, Replicate, Triton, ggml  
+• CI/CD: GitHub Actions, Railway, Docker Compose, Make  
+• Cloud: AWS, GCP  
+• Monitoring: LangSmith, inference logs, custom APIs
 
-### 🎯 **Frontend & Interfaces**
-![Gradio](https://img.shields.io/badge/Gradio-FFA116?style=for-the-badge&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HF_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+**🞄 Full-Stack & UI Dev**  
+• Frontend: Gradio, Streamlit, HTML5, CSS3, JS, TailwindCSS  
+• UX: Prompt UIs, streaming interfaces, agents-as-apps  
+• Interfaces: Jinja2, Markdown rendering
 
-### 🛠️ **General Tools & Workflow**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Make](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=ssh&logoColor=white)
+**📊 Data & Analytics**  
+• Tools: NumPy, Pandas, Seaborn, UMAP, Matplotlib  
+• Visualization: Embedding plots, attention maps, token analysis  
+• Workspaces: Jupyter, Google Colab
+
+**🛠 Development Workflow**  
+• Versioning: Git, GitHub  
+• Tooling: VS Code, Notion, Make, SSH  
+• Documentation: Markdown, README-driven Dev
+
+---
+
+### Key Strengths
+
+✔ End-to-End AI system design: from dataset to API & UI  
+✔ Multimodal & RAG-based systems in production  
+✔ Strong blend of backend engineering, ML, and DevOps  
+✔ Obsessed with tooling, benchmarks, and real-world reliability
 
 ---
 
