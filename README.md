@@ -10,7 +10,7 @@
 |---|---|
 | <div align="center"><a href="https://github.com/DeepRatAI/cortex-knowledge-assistant"><img src="img/cortex.png" alt="Cortex" width="390"></a></div> | **Cortex — Corporate Knowledge Assistant**<br>Enterprise-grade RAG system built with hexagonal architecture, multi-tenant RBAC, PII-aware processing, and a full audit trail. Designed for regulated environments with strict data-leak prevention and production-grade observability.<br><br>**Stack:** RAG · FastAPI · Qdrant · React · Redis · PostgreSQL · Docker · RBAC · DLP/PII<br><br>[![View Repository](https://img.shields.io/badge/View%20Repository-Cortex-181717?style=flat-square&logo=github)](https://github.com/DeepRatAI/cortex-knowledge-assistant) |
 | <div align="center"><a href="https://github.com/DeepRatAI/Med-X-KimiK2-RAG"><img src="img/Medx.gif" alt="MedX" width="400"></a></div> | **MedX — Medical AI Assistant** *(Under Renovation)*<br>RAG-powered assistant for clinical document Q&A, integrating LangChain orchestration with the Kimi K2 model to deliver source-grounded responses for medical information retrieval and reasoning workflows.<br><br>**Stack:** RAG · LangChain · Kimi K2 · Python · NLP · Vector Search<br><br>[![View Repository](https://img.shields.io/badge/View%20Repository-Med--X-181717?style=flat-square&logo=github)](https://github.com/DeepRatAI/Med-X-KimiK2-RAG) |
-| <div align="center"><img src="img/cdr.png" alt="CDR" width="390"></div> | **CDR — Clinical Data Research · Agent Orchestration**<br><b>Coming Soon — 17/02/26</b><br>Multi-agent orchestration system for clinical data research. Autonomous agents collaborate to retrieve, validate, analyze, and synthesize clinical datasets and literature — designed for scalable, evaluation-driven research workflows in healthcare.<br><br>**Stack:** Agents · Orchestration · LangGraph · RAG · Python · Evaluation Harness · Observability |
+| <div align="center"><img src="img/cdr.png" alt="CDR" width="300"></div> | **CDR — Clinical Data Research · Agent Orchestration**<br><b>Coming Soon — 17/02/26</b><br>Multi-agent orchestration system for clinical data research. Autonomous agents collaborate to retrieve, validate, analyze, and synthesize clinical datasets and literature — designed for scalable, evaluation-driven research workflows in healthcare.<br><br>**Stack:** Agents · Orchestration · LangGraph · RAG · Python · Evaluation Harness · Observability |
 
 ---
 
@@ -69,15 +69,11 @@
 • UX: Prompt UIs, streaming interfaces, agents-as-apps  
 • Interfaces: Jinja2, Markdown rendering
 
-**📊 Data & Analytics**  
+**Data & Analytics**  
 • Tools: NumPy, Pandas, Seaborn, UMAP, Matplotlib  
 • Visualization: Embedding plots, attention maps, token analysis  
 • Workspaces: Jupyter, Google Colab
 
-**🛠 Development Workflow**  
-• Versioning: Git, GitHub  
-• Tooling: VS Code, Notion, Make, SSH  
-• Documentation: Markdown, README-driven Dev
 
 ---
 
@@ -90,10 +86,10 @@
 
 ---
 
-## 🧠 Open Knowledge Vault — Certifications & Specializations
+##  ***⚙ Open Knowledge Vault — Certifications & Specializations ⚙***
 
 <details>
-<summary><b>📘 Click to expand full list</b></summary>
+<summary><b> Click to expand full list</b></summary>
 
 - [IBM AI & Machine Learning Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RSIQ88E92KMH)
 - [IBM Generative AI Foundations](https://www.coursera.org/account/accomplishments/specialization/certificate/KGPJ34OTAQXR)
