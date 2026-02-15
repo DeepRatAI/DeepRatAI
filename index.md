@@ -154,27 +154,29 @@ Multi-agent orchestration system for clinical data research. Autonomous agents c
 
 ---
 
-## ⚙ Open Knowledge Vault — Certifications & Specializations ⚙
+<h2>⚙ Open Knowledge Vault — Certifications & Specializations ⚙</h2>
 
 <details>
-<summary><b>Click to expand full list</b></summary>
+  <summary><b>Click to expand full list</b></summary>
 
-* [IBM AI & Machine Learning Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RSIQ88E92KMH)
-* [IBM Generative AI Foundations](https://www.coursera.org/account/accomplishments/specialization/certificate/KGPJ34OTAQXR)
-* [Mathematics for Machine Learning — Duke University](https://www.coursera.org/account/accomplishments/verify/CXEO3X2KPEJL)
-* [Deep Learning — IBM](https://www.coursera.org/account/accomplishments/certificate/RWJ6S047T5AK)
-* [Advanced Machine Learning and Signal Processing — IBM](https://www.coursera.org/account/accomplishments/verify/SQZGS7JIGS1L)
-* [Intro to Computer Vision and Image Processing — IBM](https://www.coursera.org/account/accomplishments/certificate/Y4YMMARVQVI1)
-* [Python for Data Science, AI & Development — IBM](https://www.coursera.org/account/accomplishments/verify/DSYIPSU2SUOC)
-* [Databases and SQL for Data Science — IBM](https://www.coursera.org/account/accomplishments/verify/ASHKW06G2OYZ)
-* [Tools for Data Science — IBM](https://www.coursera.org/account/accomplishments/verify/P93YN7IBD6SC)
-* [Data Visualization with Python — IBM](https://www.coursera.org/account/accomplishments/certificate/NYRAY3CWX5OM)
-* [Data Analysis with Python — IBM](https://www.coursera.org/account/accomplishments/verify/0H61CITWOIZO)
-* [Machine Learning with Python (with Honors) — IBM](https://www.coursera.org/account/accomplishments/verify/SW7LSLODUZUT)
-* [Deep Neural Networks with PyTorch — IBM](https://www.coursera.org/account/accomplishments/verify/5CY9OXPL6O7U)
-* [Deep Learning with TensorFlow — IBM](https://www.coursera.org/account/accomplishments/verify/XWHCZJ2X7KBY)
-* [Machine Learning with Python — IBM Developer Skills Network](https://www.coursera.org/account/accomplishments/certificate/DC3R530QSFEX)
+  <ul>
+    <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RSIQ88E92KMH">IBM AI & Machine Learning Professional Certificate</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KGPJ34OTAQXR">IBM Generative AI Foundations</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/verify/CXEO3X2KPEJL">Mathematics for Machine Learning — Duke University</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/certificate/RWJ6S047T5AK">Deep Learning — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/verify/SQZGS7JIGS1L">Advanced Machine Learning and Signal Processing — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/certificate/Y4YMMARVQVI1">Intro to Computer Vision and Image Processing — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/verify/DSYIPSU2SUOC">Python for Data Science, AI & Development — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/verify/ASHKW06G2OYZ">Databases and SQL for Data Science — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/verify/P93YN7IBD6SC">Tools for Data Science — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/certificate/NYRAY3CWX5OM">Data Visualization with Python — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/verify/0H61CITWOIZO">Data Analysis with Python — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/verify/SW7LSLODUZUT">Machine Learning with Python (with Honors) — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/verify/5CY9OXPL6O7U">Deep Neural Networks with PyTorch — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/verify/XWHCZJ2X7KBY">Deep Learning with TensorFlow — IBM</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/certificate/DC3R530QSFEX">Machine Learning with Python — IBM Developer Skills Network</a></li>
+  </ul>
 
-*Full record available on LinkedIn:* [https://www.linkedin.com/in/gonzalo-romero-b9b5b4355/](https://www.linkedin.com/in/gonzalo-romero-b9b5b4355/)
-
+  <p><i>Full record available on LinkedIn:</i> <a href="https://www.linkedin.com/in/gonzalo-romero-b9b5b4355/">linkedin.com/in/gonzalo-romero-b9b5b4355</a></p>
 </details>
+
