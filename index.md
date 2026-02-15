@@ -5,7 +5,7 @@ description: "AI Engineer — multimodal GenAI, applied AI systems, RAG & agents
 ---
 
 <div class="top-banner">
-  <img src="img/elcome.png" alt="Welcome to DeepRat Repositories" />
+  <img src="img/deeprat_banner.png" alt="Welcome to DeepRat Repositories" />
 </div>
 
 <p align="center">
