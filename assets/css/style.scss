@@ -7,7 +7,6 @@
    DeepRat Pages: polish layer
    ========================= */
 
-/* Readability + layout */
 .main-content {
   max-width: 980px;
   margin: 0 auto;
@@ -46,20 +45,17 @@
   border-top: 1px solid rgba(0, 0, 0, 0.12);
 }
 
-/* Links */
 .main-content a {
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
 
-/* Images: responsive + nicer */
 .main-content img {
   max-width: 100%;
   height: auto;
   border-radius: 12px;
 }
 
-/* Avoid rounding for tiny icons/badges if you want: keep badges sharp-ish */
 .main-content img[width="38"],
 .main-content img[width="32"],
 .main-content img[alt*="badge"],
@@ -67,12 +63,10 @@
   border-radius: 6px;
 }
 
-/* Centered blocks (your <p align="center">) */
 .main-content p[align="center"] {
   margin: 1.4rem 0;
 }
 
-/* Services section: better spacing even if it's plain text */
 #services + h2,
 #services ~ p {
   margin-bottom: 0.8rem;
@@ -110,7 +104,6 @@ details[open] > summary:before {
   content: "▾";
 }
 
-/* Lists look tighter/cleaner */
 .main-content ul {
   padding-left: 1.25rem;
 }
@@ -119,37 +112,35 @@ details[open] > summary:before {
   margin: 0.25rem 0;
 }
 
-/* Optional: subtle “cards” for project images (only when inside links) */
 .main-content a > img {
   box-shadow: 0 8px 22px rgba(0, 0, 0, 0.12);
 }
 
-/* Make inline code a bit nicer (if you ever add it) */
 .main-content code {
   padding: 0.15rem 0.35rem;
   border-radius: 8px;
   background: rgba(0, 0, 0, 0.06);
 }
 
-/* Footer spacing (Cayman) */
 .site-footer {
   margin-top: 2.5rem;
 }
 
-/* Banner dentro del ancho del contenido (no full-bleed) */
 .top-banner {
-  margin: 0.35rem 0; /* “un pulgar menos” arriba/abajo */
+  margin: 0.25rem 0;      
   padding: 0;
+  height: 140px;          
+  overflow: hidden;       
+  border-radius: 12px;
 }
 
 .top-banner img {
   display: block;
-  width: 100%; /* ocupa todo el ancho del contenido */
-  height: auto;
-  border-radius: 12px;
-}
+  width: 100%;
+  height: 100%;           
+  object-fit: cover;      
+  object-position: center;
 
-/* Cayman header: más compacto (menos alto) */
 .page-header {
   padding: 1.2rem 1rem;
 }
@@ -165,7 +156,6 @@ details[open] > summary:before {
   opacity: 0.92;
 }
 
-/* Botón "View on GitHub" más chico */
 .page-header .btn {
   padding: 0.45rem 0.9rem;
   font-size: 0.95rem;
