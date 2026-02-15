@@ -4,9 +4,9 @@ title: "Gonzalo Romero (DeepRatAI)"
 description: "AI Engineer — multimodal GenAI, applied AI systems, RAG & agents"
 ---
 
-<p align="center">
-  <img src="img/elcome.png" alt="Welcome to DeepRat Repositories" style="max-width: 100%; height: auto;" />
-</p>
+<div class="top-banner">
+  <img src="img/elcome.png" alt="Welcome to DeepRat Repositories" />
+</div>
 
 <p align="center">
   <a href="#services">Services</a> ·
