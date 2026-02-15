@@ -135,3 +135,39 @@ details[open] > summary:before {
 .site-footer {
   margin-top: 2.5rem;
 }
+
+/* Banner dentro del ancho del contenido (no full-bleed) */
+.top-banner {
+  margin: 0.35rem 0; /* “un pulgar menos” arriba/abajo */
+  padding: 0;
+}
+
+.top-banner img {
+  display: block;
+  width: 100%; /* ocupa todo el ancho del contenido */
+  height: auto;
+  border-radius: 12px;
+}
+
+/* Cayman header: más compacto (menos alto) */
+.page-header {
+  padding: 1.2rem 1rem;
+}
+
+.project-name {
+  font-size: 2rem;
+  margin: 0.2rem 0 0.35rem;
+}
+
+.project-tagline {
+  font-size: 1.05rem;
+  margin: 0 0 0.8rem;
+  opacity: 0.92;
+}
+
+/* Botón "View on GitHub" más chico */
+.page-header .btn {
+  padding: 0.45rem 0.9rem;
+  font-size: 0.95rem;
+  margin: 0;
+}
