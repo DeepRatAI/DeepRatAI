@@ -20,8 +20,8 @@ description: "AI Engineer — multimodal GenAI, applied AI systems, RAG & agents
 AI engineer specialized in multimodal generative AI and applied AI systems. Passion for science since the age of 6 thanks to Carl Sagan. I love technology and information; they are the pillars of my daily life. Programming, studying and experimenting since my first computer. More than 12 years of continuous training between courses and certifications (20+), university and self-taught learning.
 
 <p align="center">
-  <a href="mailto:info@deeprat.tech"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.deeprat.tech"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:deeprat.tec@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.gonzaloromeroai.com"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gonzalo-romero-b9b5b4355/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DeepRatAI"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
