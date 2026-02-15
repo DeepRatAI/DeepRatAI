@@ -1,9 +1,8 @@
 ---
-
 layout: default
 title: "Gonzalo Romero (DeepRatAI)"
 description: "AI Engineer — multimodal GenAI, applied AI systems, RAG & agents"
--------------------------------------------------------------------------------
+---
 
 <p align="center">
   <img src="img/elcome.png" alt="Welcome to DeepRat Repositories" style="max-width: 100%; height: auto;" />
@@ -19,6 +18,22 @@ AI engineer specialized in multimodal generative AI and applied AI systems. Pass
   <a href="https://www.linkedin.com/in/gonzalo-romero-b9b5b4355/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DeepRatAI"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+## Services
+
+✬ **Applied AI System Development (Desarrollo de sistemas de IA aplicada)** ✬ — End-to-end delivery of production-grade GenAI backends (RAG + agents): data ingestion, retrieval, orchestration, APIs, evaluation harnesses, observability, and secure deployment.
+
+**IT Consulting (Consultoría de TI)** — Design and implementation of generative AI architectures, RAG systems, and agentic backends; backend/MLOps advisory; and model integration for production environments.
+
+**Cybersecurity (Ciberseguridad)** — Security analysis and threat modeling for AI systems; implementation of multi-tenant RBAC, data masking, and audit logging to meet compliance requirements.
+
+**Backup & Recovery Solutions (Soluciones de copia de seguridad y recuperación)** — Design of data ingestion pipelines and vector storage with backup, disaster recovery, and efficient scaling strategies.
+
+**Training (Formación)** — Technical workshops and training on GenAI, RAG, agents, LangChain, vector databases, MLOps, and secure AI deployment.
+
+**Advisory & Guidance (Asesoramiento y orientación)** — Strategic guidance on applied AI, model selection, system evaluation, and technology roadmap development.
 
 ---
 
@@ -89,7 +104,6 @@ Multi-agent orchestration system for clinical data research. Autonomous agents c
 </p>
 
 ### ⯈ GenAI & Applied AI Systems
-
 * **LLMs:** GPT, Mistral, LLaMA, Falcon, Kimi, Qwen-VL
 * **RAG:** LangChain, LangGraph, FAISS, Chroma, Weaviate, Pinecone
 * **Vector DBs:** Qdrant, Milvus, ChromaDB
@@ -98,19 +112,16 @@ Multi-agent orchestration system for clinical data research. Autonomous agents c
 * **Formats:** GGUF, llama.cpp
 
 ### ⚙ AI Modeling & Training
-
 * **Frameworks:** PyTorch, Transformers, scikit-learn, XGBoost
 * **Workflows:** training pipelines, quantization, distillation, eval metrics
 * **Vision:** OpenCV, YOLOv8, CLIP, BLIP, ViT, Stable Diffusion, SDXL
 
 ### ✦ NLP & Data Intelligence
-
 * **Embeddings:** SentenceTransformers, Cohere, OpenAI, HF models
 * **Processing:** spaCy, NLTK, regex, custom pipelines
 * **Graph reasoning:** GraphRAG, LangGraph memory
 
 ### ➤ Backend Engineering
-
 * **Languages:** Python (Advanced)
 * **APIs:** FastAPI, Flask, WebSocket
 * **Auth & Security:** JWT, OAuth2, RBAC, multi-tenant
@@ -118,20 +129,17 @@ Multi-agent orchestration system for clinical data research. Autonomous agents c
 * **Observability:** logging, Prometheus, Grafana
 
 ### ⧉ MLOps & Deployment
-
 * **Hosting:** Hugging Face, Ollama, Replicate, Triton, ggml
 * **CI/CD:** GitHub Actions, Railway, Docker Compose, Make
 * **Cloud:** AWS, GCP
 * **Monitoring:** LangSmith, inference logs, custom APIs
 
 ### 🞄 Full-Stack & UI Dev
-
 * **Frontend:** Gradio, Streamlit, HTML5, CSS3, JS, TailwindCSS
 * **UX:** prompt UIs, streaming interfaces, agents-as-apps
 * **Interfaces:** Jinja2, Markdown rendering
 
 ### Data & Analytics
-
 * **Tools:** NumPy, Pandas, Seaborn, UMAP, Matplotlib
 * **Visualization:** embedding plots, attention maps, token analysis
 * **Workspaces:** Jupyter, Google Colab
@@ -139,7 +147,6 @@ Multi-agent orchestration system for clinical data research. Autonomous agents c
 ---
 
 ## Key Strengths
-
 * ✔ End-to-End AI system design: from dataset to API & UI
 * ✔ Multimodal & RAG-based systems in production
 * ✔ Strong blend of backend engineering, ML, and DevOps
@@ -164,7 +171,7 @@ Multi-agent orchestration system for clinical data research. Autonomous agents c
 * [Data Visualization with Python — IBM](https://www.coursera.org/account/accomplishments/certificate/NYRAY3CWX5OM)
 * [Data Analysis with Python — IBM](https://www.coursera.org/account/accomplishments/verify/0H61CITWOIZO)
 * [Machine Learning with Python (with Honors) — IBM](https://www.coursera.org/account/accomplishments/verify/SW7LSLODUZUT)
-* [Deep Neural Networks with PyTorch — IBM](https://www.coursera.org/account/accomplishments/verify/5CY9OXPL6I7U)
+* [Deep Neural Networks with PyTorch — IBM](https://www.coursera.org/account/accomplishments/verify/5CY9OXPL6O7U)
 * [Deep Learning with TensorFlow — IBM](https://www.coursera.org/account/accomplishments/verify/XWHCZJ2X7KBY)
 * [Machine Learning with Python — IBM Developer Skills Network](https://www.coursera.org/account/accomplishments/certificate/DC3R530QSFEX)
 
