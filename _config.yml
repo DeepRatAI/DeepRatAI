@@ -1,6 +1,6 @@
 title: "Gonzalo Romero (DeepRatAI)"
 description: "AI Engineer — Applied AI Systems, RAG, Agents, MLOps"
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
 
 markdown: kramdown
 kramdown:
