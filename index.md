@@ -8,6 +8,13 @@ description: "AI Engineer — multimodal GenAI, applied AI systems, RAG & agents
   <img src="img/elcome.png" alt="Welcome to DeepRat Repositories" style="max-width: 100%; height: auto;" />
 </p>
 
+<p align="center">
+  <a href="#services">Services</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#skillset">Technical Skillset</a> ·
+  <a href="#vault">Open Knowledge Vault</a>
+</p>
+
 ## Gonzalo Romero, aka **𝔇𝔢𝔢𝔭ℜ𝔞𝔱**
 
 AI engineer specialized in multimodal generative AI and applied AI systems. Passion for science since the age of 6 thanks to Carl Sagan. I love technology and information; they are the pillars of my daily life. Programming, studying and experimenting since my first computer. More than 12 years of continuous training between courses and certifications (20+), university and self-taught learning.
@@ -21,6 +28,7 @@ AI engineer specialized in multimodal generative AI and applied AI systems. Pass
 
 ---
 
+<a id="services"></a>
 ## Services
 
 ✬ **Applied AI System Development (Desarrollo de sistemas de IA aplicada)** ✬ — End-to-end delivery of production-grade GenAI backends (RAG + agents): data ingestion, retrieval, orchestration, APIs, evaluation harnesses, observability, and secure deployment.
@@ -37,6 +45,7 @@ AI engineer specialized in multimodal generative AI and applied AI systems. Pass
 
 ---
 
+<a id="projects"></a>
 ## Projects
 
 ### Cortex — Corporate Knowledge Assistant
@@ -85,6 +94,7 @@ Multi-agent orchestration system for clinical data research. Autonomous agents c
 
 ---
 
+<a id="skillset"></a>
 ## Technical Skillset
 
 <p align="center">
@@ -154,6 +164,7 @@ Multi-agent orchestration system for clinical data research. Autonomous agents c
 
 ---
 
+<a id="vault"></a>
 ## ⚙ Open Knowledge Vault — Certifications & Specializations ⚙
 
 <details markdown="1">
